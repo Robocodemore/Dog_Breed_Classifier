@@ -1,0 +1,2 @@
+Download the "VGG19 Data" file from 
+"https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG19Data.npz".
